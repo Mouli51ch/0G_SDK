@@ -1,0 +1,18 @@
+{
+    "dependencies": {
+        "dotenv": "^16.4.5",
+        "ethers": "^6.13.0",
+        "zerog-da-sdk": "^0.1.0"
+    },
+    "name": "necessary",
+    "version": "1.0.0",
+    "main": "generateMerkelTree.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": ""
+}
